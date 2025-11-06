@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">大郎，吃药啦</string>
+
+    <!-- Main Screen -->
+    <string name="medicine_reminder">吃药提醒</string>
+    <string name="intake_history">服药记录</string>
+    <string name="add_medicine">添加药品</string>
+    <string name="no_medicines">还没有添加药品。\n点击 + 添加一个！</string>
+    <string name="delete">删除</string>
+    <string name="delete_medicine">删除药品</string>
+    <string name="delete_medicine_confirmation">确定要删除这个药品吗？所有相关的提醒和记录也会被删除。</string>
+
+    <!-- Medicine Detail Screen -->
+    <string name="medicine_detail">药品详情</string>
+    <string name="back">返回</string>
+    <string name="add_reminder">添加提醒</string>
+    <string name="no_reminders">未设置提醒。\n点击 + 添加提醒！</string>
+    <string name="taken">已服用</string>
+    <string name="delete_schedule">删除提醒</string>
+    <string name="delete_schedule_confirmation">确定要删除这个提醒吗？</string>
+
+    <!-- Add Medicine Screen -->
+    <string name="medicine_name">药品名称</string>
+    <string name="medicine_name_empty">药品名称不能为空</string>
+
+    <!-- History Screen -->
+    <string name="previous_month">上个月</string>
+    <string name="next_month">下个月</string>
+    <string name="all_taken">全部服用</string>
+    <string name="some_missed">有遗漏</string>
+    <string name="click_date_for_details">点击日期查看详情</string>
+    <string name="no_records_today">当天无服药记录</string>
+    <string name="was_taken">已服用</string>
+    <string name="not_taken">未服用</string>
+    <string name="scheduled_time">计划时间: %s</string>
+    <string name="taken_time">服用时间: %s</string>
+    <string name="unknown_medicine">未知药品</string>
+
+    <!-- Time Picker -->
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+
+    <!-- Language Settings -->
+    <string name="language">语言</string>
+    <string name="language_english">English</string>
+    <string name="language_chinese">中文</string>
+    <string name="language_system">跟随系统</string>
+    <string name="select_language">选择语言</string>
+</resources>
